@@ -1,0 +1,15 @@
+﻿  thegame.c
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(247,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(247,55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(248,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(248,55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(249,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(249,55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(250,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(250,55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(327,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(370,59): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(603,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(629,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言学习\项目\dino示例\my dino\thegame\thegame.c(821,32): warning C4244: “函数”: 从“double”转换到“Uint32”，可能丢失数据
+  thegame.vcxproj -> D:\c语言学习\项目\dino示例\my dino\thegame\x64\Debug\thegame.exe
